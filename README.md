@@ -162,4 +162,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Conclusion</h2>
 
-By following these steps, you have successfully demonstrated the lifecycle of a ticket from intake to resolution within osTicket. This lab highlights the importance of ticket properties, proper assignment, and resolution processes in a help desk environment. The completed steps should provide a strong foundation for managing real-world help desk scenarios.
+By following these steps, you have successfully demonstrated the lifecycle of a ticket from intake to resolution within osTicket. This lab highlights the importance of ticket properties, proper assignment, and resolution processes in a help desk environment.
